@@ -1,0 +1,5 @@
+# Common virtualenv folders
+venv/
+.env/
+*.egg-info/
+__pycache__/
